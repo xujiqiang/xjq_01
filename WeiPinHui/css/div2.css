@@ -1,0 +1,15 @@
+#div2{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	background-size: 100% auto;
+	margin-top: -5px;
+	
+
+}
+
+
+
+#div2>img{
+	width: 20%;
+}

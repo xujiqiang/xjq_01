@@ -1,0 +1,32 @@
+#div3{
+
+	display: flex;
+	
+	align-items: center;
+	background-size: 100% auto;
+	margin-top: -5px;
+
+}
+
+#div3>div{
+	margin-top: 22%;
+	margin-left: 5px;
+	margin-right: 5px;
+	width: 23%;
+}
+#div3_1{
+	margin-top: -29.5%;
+	width: 14%;
+}
+#div3_2{
+	margin-top: -29.5%;
+	width: 14%;
+}
+#div3_3{
+	margin-top: -29.5%;
+	width: 14%;
+}
+#div3_4{
+	margin-top: -29.5%;
+	width: 14%;
+}

@@ -1,0 +1,11 @@
+#div4{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+
+
+#div4>img{
+    width: 33%;
+}

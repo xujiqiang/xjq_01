@@ -1,0 +1,16 @@
+#div7{
+	margin-top: 7%;
+}
+
+
+
+#div7>img{
+	
+	border-radius: 20px;
+	margin-right: 10%;
+	width: 100%;
+}
+#div7>font{
+	align-items: center;
+	color: chocolate;
+}
